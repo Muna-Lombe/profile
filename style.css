@@ -78,7 +78,6 @@ a {
   color: rgba(97, 84, 84, 0.7);
   border: black;
   text-decoration:none;
-  
 }
 #kitt-bold{
   font-family:cursive;
@@ -87,7 +86,6 @@ a {
 a:hover{
   color: rgb(10, 10,10);
   visibility: visible ;
-  
 }
 
 .list-inline li {
